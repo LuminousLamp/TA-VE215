@@ -1,2 +1,8 @@
 # TA-VE215
-My teaching material of the course VE215, as a teaching assistant of SJTU
+This repository archives most of my teaching materials of the course VE215, as a teaching assistant of SJTU.
+
+Important materials includes:
+
+- Recitation class slides
+- Slides LaTeX documents
+- Homeworks
